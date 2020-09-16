@@ -1,0 +1,130 @@
+Machine Learning Definition 
+
+Learn from experience w.r.t some class of tasks 
+
+Measure the performance 
+
+Performance improves with experience 
+
+No. Of marks you obtain
+No. Of patients saved
+No. Of patients didn’t get adverse effects
+
+
+
+
+Class of tasks 
+Performance measure
+Experience
+
+
+
+1997 - Tom Mitchell
+
+
+It is known as 
+Inductive Learning
+
+
+Comfort of foot wearing a new shoe
+
+
+Paradigms 
+
+Supervised Learning
+
+Learn the mapping, function - input to output 
+
+Categorical output - Classification - YES or NO (Discrete Value)
+Continuous Value - Regression Problem 
+
+
+UnSupervised Learning 
+Discover Patterns in the data
+Clustering - Task - Cohesive Groups - categories
+Association in data - Frequent cooccurrence  
+
+
+Reinforcement Learning 
+Control the behavior of the system 
+
+
+
+Tasks - Performance Measures
+Classification - Classification Error - Confusion Matrix
+Regression - Error
+Clustering. - Scatter, Spread, What fraction, Purity
+Association Mining - Support and Confidence 
+
+Reinforcement Learning - Cost/reward
+
+
+Challenges 
+
+How good is the model?
+How do I chose the model?
+Do I enough data?
+Is the data of sufficient quality?
+Errors in Data
+Noise in images, 
+Missing values 
+
+
+How confident can I be of the results
+Am I describing the data correctly?
+Domain Dependent, Experience with data
+
+
+Inductive Bias 
+
+Training set
+
+Training Algorithm
+
+Validation/Test Set used for evaluation of the model - 
+
+Encoding the data - Normalizing theInput and Output 
+
+Error - 
+
+
+Applications 
+Fraud Detection - Transactions Data - Flag each transaction 
+Sentiment Analysis - Movie Review - Positive/Negative
+Employee engagement  - Attrition
+Customer churn prediction
+
+Medical Diagnosis 
+Risk Analysis - Insurance 
+
+
+Nearest neighbors
+ANN
+Support Systems 
+Decision 
+
+
+Different times of the day
+Temperature
+
+Trying to fit the noise based on the training data
+
+Avoid Overfitting 
+Under-fitting 
+
+Linear Regression 
+
+Take the errors 
+
+
+
+
+
+
+
+
+
+
+
+
+
