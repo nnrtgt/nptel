@@ -1,0 +1,173 @@
+ Assignment 1
+Due date: 2020-09-30, 23:59 IST.
+Assignment not submitted
+1 point
+State whether the following statements are True or False.
+	   
+		I.	Adding comments to the document will improve the readability of the code
+	   	II.	Inorder to comment/ un-comment lines of code in RStudio, select multiple lines of code using cursor then press Ctrl+shift+V
+I - True, II - True
+I - False, II - True
+I - True, II – False
+I - False, II – False
+1 point
+Which of the following is NOT a basic data type in R?
+Logical
+Numeric
+Complex
+List
+1 point
+The command to check if a value is of numeric datatype is ---
+typeof( )
+is.numeric( )
+as.numeric( )
+is.num( )
+1 point
+
+I - a , II - c , III - b
+I - a , II - b , III - c
+I - c , II - a , III - b
+I - b, II - a , III – c
+1 point
+Which of the following is NOT a valid variable name?
+Maths_hari=90
+_Maths=90
+Science@Divya=86
+Science.Mark=65
+
+Using the table given below create a data frame called “Student_Marks” answer the questions from 6 - 7
+
+	
+1 point
+The command to access the marks of Harish and Sathish is
+Student_Marks[c(2,4),]
+Student_Marks[c(2,4)]
+Student_Marks[,c(1,3)]
+None of the above
+1 point
+Subset the students list who have scored more than 50 marks in English
+subset(Student_Marks,English>50)
+subset(StudentMarks,English>50)
+subset(Student_Marks,Eng<50)
+filter(Student_Marks,Eng>50)
+
+Using the matrix, B=⎡⎣⎢⎢⎢11451296168615252579863636524548⎤⎦⎥⎥⎥
+ , answer the questions from 8 to 10
+1 point
+Which of the following command(s) used to display the full matrix B?
+print(B)
+print(B[])
+print(B[,])
+print(B[:])
+1 point
+The expected output when the command B[1,3] is executed is--
+25
+12
+36
+96
+1 point
+The command to exclude the elements of 3rd row and select the rest of matrix is--
+B[3,1:3]
+B[3,]
+B[2,0:4]
+B[-3,]
+1 point
+Write a function to calculate the volume of the sphere for the given radius =5
+523.5988
+4188.79
+314.56
+31.41
+1 point
+Calculate the value of the expression X2+5X+3 when X=9
+19
+45
+129
+57
+1 point
+For the given the matrix C=[1145169685793612]
+the command to calculate the row sum is
+apply(C,2,sum)
+apply(C,sum)
+lapply(C,1,sum)
+apply(C,1,sum)
+1 point
+The last value of sum and month printed is -----
+
+	n=2
+	sum=0
+	for(i in 1:11){
+  		sum=sum+(i^2)
+  		if (i %% 2 !=0)
+    			next
+  		print(c(month.abb[i+1],sum))
+	}
+"Dec" "4356"
+"Oct" "2025"
+"Sep" "204"
+"Nov" "385"
+1 point
+In the R code given below, the value of "i” at which the loop breaks is ---
+
+	n=8
+	x = seq(1,n,2)
+	for (i in x) {
+  		if (i == 5){
+    			print(i)
+    		break
+  	}
+  	}
+3
+15
+5
+25
+1 point
+Which of the following libraries can be used for data visualization in R?
+ggplot2
+plotly
+lattice
+seaborn
+1 point
+_________ plot shows comparison between discrete categories
+Scatter
+Bar
+Histogram
+Line
+1 point
+Table 1 provides the minimum and maximum temperatures recorded in a specific month for different cities. Create a data frame called
+	   temperature out of Table 1.
+
+	
+
+	
+
+
+	   Which of the following options gives Table 2 as an output?
+melt(temperature, id.vars = c("Place") , measure.vars =c("Min_temp", "Max_temp") )
+melt(temperature, id.vars = c("Place","Min_temp") , measure.vars =c( "Max_temp") )
+melt(temperature, id.vars = c("Place","Month") , measure.vars =c("Min_temp", "Max_temp") )
+dcast(temperature, variable+Month ~ Place , value.var="value" )
+1 point
+Table 1 and 2 provide the employee details of an organization. Create two data frames Employee_data1 and Employee_data2 out of
+	   Table 1 and 2 respectively.
+
+	
+	
+	
+
+		   Which of the following options gives Table 3 as an output?
+left_join (Employee_data1, Employee_data2, by ="EmployeeID")
+inner_join (Employee_data1, Employee_data2, by ="EmployeeID")
+right_join (Employee_data1, Employee_data2, by ="EmployeeID")
+join(Employee_data1, Employee_data2, by ="EmployeeID")
+1 point
+Table 1 provides the number of damage incidents and total months of service by ship type, year of construction, and period of operation.
+	   Using the data given in Table 1, create a data frame called ships.
+
+	
+	
+
+	   Which of the following options is used to get the desired output as shown in Table 2?
+recast(ships,type~variable,id.var=c("type","period","year"),fun.aggregate = sum)
+recast(ships,type~variable,id.var=c("type","period"),fun.aggregate = sum)
+recast(ships,type~variable,id.var=c("type","year"),fun.aggregate = sum)
+recast(ships,type~variable,id.var=c("type","year"))
