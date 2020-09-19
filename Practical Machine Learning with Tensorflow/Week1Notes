@@ -1,0 +1,34 @@
+Started with the Example of Handwritten Recognition
+Introduced to CoLab
+
+What is the difference between Traditional Programming and Machine Learning
+Training vs Inference/Prediction in Machine Learning
+
+
+Data (Important for Machine Learning) - Features & Labels
+Exampls - Housing Price, Recognizing the hand written digit
+
+Discrete or Continuous 
+Label  Present - Supervised Learning Algorithim
+Label is Absent - Unsupervised Learning Algorithm
+
+Supervised Learning can be divided into 
+Classification if the label is discrete
+Regression if the label is continous
+Features:
+Numerical (no. of bed rooms, area of the house)
+Categorical (Colors, Cities)
+
+Categorical can be convereted into Numerical 
+
+Introduced One Hot Coding
+Hashing and Embedding
+
+Steps in Machine Learning
+
+Data Preprocessing
+Address the data quality issues
+Inconsistencies 
+Remove Outliers
+
+
