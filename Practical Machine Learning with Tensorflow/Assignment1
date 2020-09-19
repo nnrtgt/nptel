@@ -1,0 +1,83 @@
+Assignment 1
+Due date: 2020-09-30, 23:59 IST.
+Assignment not submitted
+1 point
+We have a neural network with an input layer of h0
+nodes, hidden layers of h1,h2,h3,...,hl−1 nodes respectively and an
+	   output layer of hl
+nodes. How many parameters does the network have?
+∑i=1l−1[(hi∗hi+1)+hi]
+∑i=0l−1[(hi∗hi+1)+hi]
+∑i=0l−1[(hi∗hi+1)+hi+1]
+None of the above
+1 point
+Gradient descent always converges to the global optimum. True or false?
+True
+False
+1 point
+Given below are the ages of students from Kendriya Vidyalaya. We are building a machine learning model that uses the age of the student as a feature. However, we notice that our data has certain erroneous values in it. Which of the following normalization techniques would you use to normalize data with such erroneous values?
+
+			[11, 15, 13, 14, 120, 16, 13, 14, 11, 12, 11, 13, 14, 13, 11]
+z-score
+min-max
+log-transform
+1 point
+Which of the following equations is the best representation for the given points?
+
+	
+y=a
+y=a+bx
+y=a+bx+cx2
+y=a+bx+cx2+dx3
+1 point
+Suppose we need to minimize the following loss function by tuning scalar value w
+using gradient descent: f(w)=0.8+8w+2w2 . Given w0=0, select the best value for learning rate α
+, such that gradient descent reaches the optimal value in just one step.
+0.1
+0.5
+0.25
+Any α:1>α>0
+1 point
+Suppose you are given with the following training data for linear regression (h(x)=wx+b)
+:
+	    x=[3,2,1,0,]
+	    y=[4,3,0,1,]
+	      You are using loss function J(w,b)=12n∑i=0n[h(xi)−yi]2
+	     What is the value of J(1,0)
+?
+0.25
+0.5
+1
+2
+1 point
+In the above question, if (w,b)=(1.25,−1.25)
+, what is h(3)
+?
+3.75
+5.00
+2.50
+8.00
+1 point
+In logistic regression (binary classification), we set the loss function for σ(x)
+as cross-entropy loss, suppose we change it to squared-error loss
+	    (as in linear regression). Will the gradient descent algorithm perform same as that in the cross-entropy case?
+Yes
+No
+1 point
+Let f(x,y)=x2+(y2/100)
+. Gradient descent with a fixed step size α is run for f from an initial point (x0,y0)=(10,0). Given α=1,
+	   what will be updated values (x1,y1)
+?
+(10, 0)
+(0, 10)
+(-10, 0)
+(0, -10)
+1 point
+In the above question, if we set α=0.5
+, what will be the new value of f(x1,y1) given initial point (x0,y0)=(2,5)
+?
+0.245
+0.255
+4.2025
+0
+You may submit any number of times before the due date. The final submission will be considered for grading. 
