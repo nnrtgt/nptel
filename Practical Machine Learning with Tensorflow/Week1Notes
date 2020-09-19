@@ -31,4 +31,16 @@ Address the data quality issues
 Inconsistencies 
 Remove Outliers
 
+Normalization - z square (distances from the mean in terms of standard deviation)
+mean, min, max, std deviation, 
+log transformation
+square root transformation 
+
+Build Model - Mapping from the features to label (function)
+
+Simplest model - linear regression
+
+
+
+
 
