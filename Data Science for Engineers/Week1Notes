@@ -1,1 +1,38 @@
+Variables and data types
+
+Basic data types
+Numeric
+Logical
+Complex
+Character
+
+typeof
+is.data_type
+as.data_type
+
+Basic objects
+Vector ordered collection of same data type
+List ordered collection of objects
+Dataframe
+
+Vectors
+
+It is kind of array
+
+Lists
+
+List of vectors
+List of employees
+Access the elements of the list
+$ symbol to reference via name
+or by using the index
+
+c(list, list)
+
+Concatenate lists
+
+Dataframe
+
+
+
 
