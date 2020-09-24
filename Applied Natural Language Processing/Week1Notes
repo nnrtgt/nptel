@@ -1,0 +1,49 @@
+Ramaseshan Ramachandra
+Pre requisites:
+Computer Science, 
+Probabilty and Statistics 
+Linear Algebra
+Machine Learnin
+Common Sense
+Introduction
+
+Goal - Ability to process and harness information from a large corpus of text with very little manual intervention
+
+Intellectual way of communicating between humans, make it understand with Machnine
+
+meaning of everyword
+context
+sentence
+
+Answering Why, What, How
+
+How a toddler learns language from parents - Amazing
+
+
+Why NLP is hard?
+Multiple ways of representation of the same scenario - different sentences, formation
+Includes common sense and contextual representation, we dont have to tell about the context everytime
+Complex representation information (Vocabulary)
+Mixing of visual cues, uses hands, facial expressions, stress on some words
+Ambiguous in nature, 
+Idioms, metaphors, sarcasm, double negatives, etc. makes it difficult for automatic processing - machine can't understand these
+Human language interpretation depends on real world, common sense and contextual knowledge
+
+
+Meta knowledge we have acquired over period of time should be fed to machine if we have to make it understand
+
+Algorithm
+
+Typical NLP tasks:
+Search Engine - Information Retrieval based on keywords
+Information Extraction - seeing the phone recognize the person, logo identification etc
+Language Generation - Describe based on a photo, Title for a photograph, as you type on the keyboards on mobile, it provides suggestions, while drafting an email
+Text Clustering - Classify documents in a group, looking into the keywords and group
+Test Classification - Spam or Not, 
+Machine Translation - Google Translate - from language to another
+Grammar checkers - Grammar for any language
+
+
+
+
+
