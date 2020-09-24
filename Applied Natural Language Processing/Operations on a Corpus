@@ -1,0 +1,22 @@
+What is Corpus?
+
+Collection of Documents
+
+tokenization 
+Tokens/word
+
+Identify paragraphs, sentences
+Extract tokens
+Count the number of words
+Find the vocabulary count
+
+STOP Words
+
+patterns of words. words occuring together (2 words or 3 words occur together)
+Term Frequency
+Type-Token Ratio (Stastical counting of all the words or emprical forumals)
+IDF (Inverse Document Frequency)
+Zipf (term frequency ) Mandelbrot hypothesis
+Find Co-occurence of words (New York)
+
+if you give any document the first and the foremost thing that we do is do the counting without really knowing what contents are and so on and we look at the number of tokens, we will look at the vocabulary, we try to compute the term frequency or idea or we also do the combination of term frequency ideas and so on
