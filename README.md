@@ -6,8 +6,8 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
 <thead>
   <tr>
     <th>Course</th>
-    <th>Week 1</th>
-    <th>2</th>
+    <th>Week 1<br>Due 30-Sep-2020<br></th>
+    <th>2 <br>Due 30-Sep-2020<br></th>
     <th>3</th>
     <th>4<br></th>
     <th>5</th>
@@ -23,7 +23,7 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
 <tbody>
   <tr>
     <td>Programming, Data Structures And Algorithms Using Python</td>
-    <td></td>
+    <td>Done</td>
     <td></td>
     <td></td>
     <td></td>
