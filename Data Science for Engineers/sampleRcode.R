@@ -44,3 +44,14 @@ Fibonacci[1] <- Fibonacci[2] <- 1
 for (i in 3:10) Fibonacci[i] <- Fibonacci[i - 2] + Fibonacci[i - 1]
 print("First 10 Fibonacci numbers:")
 print(Fibonacci)
+
+#Creating a Dataframe
+pd = data.frame("Name"=c("Ram", "Antho", "Birla", "Jagan"), "Month"=c("Jan", "Feb", "Mar", "Apr"), "BS"=c(120,90,90,90),"BP"=c(100,100,100,100))
+print(pd)
+#extract subset from one dataframe and create another dataframe
+pd2 = subset(pd, Name=="Ram" | Month=='Mar')
+print(pd2)
+
+
+
+
