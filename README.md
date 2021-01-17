@@ -35,8 +35,8 @@ There are several NPTEL Courses, I enrolled into Data Science and Artificial Int
   <tr>
     <td>Introduction to Machine Learning</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Done</td>
+    <td>12</td>
     <td></td>
     <td></td>
  
@@ -44,8 +44,8 @@ There are several NPTEL Courses, I enrolled into Data Science and Artificial Int
   <tr>
     <td>Applied Natural Language Processing</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Done</td>
+    <td>12</td>
     <td></td>
     <td></td>
   
