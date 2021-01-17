@@ -111,5 +111,35 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
     <td></td>
     <td></td>
   </tr>
+   <tr>
+    <td>Introduction to Artificial Intelligence</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>AI Knowledge Representation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
