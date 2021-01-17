@@ -23,7 +23,7 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
 <tbody>
   <tr>
     <td>Programming, Data Structures And Algorithms Using Python</td>
-    <td>Done</td>
+    <td>Completed in December 2020</td>
     <td></td>
     <td></td>
     <td></td>
@@ -98,7 +98,7 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
   </tr>
   <tr>
     <td>Practical Machine Learning with Tensorflow</td>
-    <td></td>
+    <td>Completed in Dec 2020</td>
     <td></td>
     <td></td>
     <td></td>
