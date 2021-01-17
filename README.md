@@ -73,7 +73,7 @@ There are several NPTEL Courses, I enrolled into Data Science and Artificial Int
     <td>Introduction to Artificial Intelligence</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>12</td>
     <td></td>
     <td></td>
 
@@ -83,7 +83,7 @@ There are several NPTEL Courses, I enrolled into Data Science and Artificial Int
     <td>AI Knowledge Representation & Reasoning</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>12</td>
     <td></td>
     <td></td>
 
