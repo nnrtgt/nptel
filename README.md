@@ -63,11 +63,10 @@ There are several NPTEL Courses, I enrolled into Data Science and Artificial Int
   <tr>
     <td>Practical Machine Learning with Tensorflow</td>
     <td>Completed in Dec 2020</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Done</td>
+    <td>8</td>
+    <td>2</td>
+    <td>20-Dec-2020</td>
  
   </tr>
    <tr>
