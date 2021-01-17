@@ -6,50 +6,31 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
 <thead>
   <tr>
     <th>Course</th>
-    <th>Week 1<br>Due 30-Sep-2020<br></th>
-    <th>2 <br>Due 30-Sep-2020<br></th>
-    <th>3</th>
-    <th>4<br></th>
-    <th>5</th>
-    <th>6<br></th>
-    <th>7</th>
-    <th>8</th>
-    <th>9</th>
-    <th>10</th>
-    <th>11</th>
-    <th>12</th>
+    <th>Status</th>
+    <th>Assignments</th>
+    <th>No. of Weeks<br></th>
+    <th>No. of Credits</th>
+    <th>Exam Date</th>
+
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Programming, Data Structures And Algorithms Using Python</td>
     <td>Completed in December 2020</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Done</td>
+    <td>8</td>
+    <td>2</td>
+    <td>18-Dec-2020</td>
+   
   </tr>
   <tr>
     <td>Data Science for Engineers</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Appreared & Waiting </td>
+    <td>Done</td>
+    <td>8</td>
+    <td>2</td>
+    <td>18-Dec-2020</td>
   </tr>
   <tr>
     <td>Introduction to Machine Learning</td>
@@ -58,13 +39,7 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+ 
   </tr>
   <tr>
     <td>Applied Natural Language Processing</td>
@@ -73,13 +48,7 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+  
   </tr>
   <tr>
     <td>Deep Learning for Computer Vision</td>
@@ -88,13 +57,8 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+
+
   </tr>
   <tr>
     <td>Practical Machine Learning with Tensorflow</td>
@@ -104,12 +68,7 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+ 
   </tr>
    <tr>
     <td>Introduction to Artificial Intelligence</td>
@@ -118,28 +77,17 @@ There are several NPTEL Courses, I enrolled into Data Science Domain Specializat
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+
+  
   </tr>
    <tr>
-    <td>AI Knowledge Representation</td>
+    <td>AI Knowledge Representation & Reasoning</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+
   </tr>
 </tbody>
 </table>
